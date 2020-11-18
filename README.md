@@ -37,6 +37,7 @@ This dataset is about past loans. The data set includes details of 346 customers
 
 
 Training set: loan_train.csv
+
 Test set: loan_test.csv
 
 
