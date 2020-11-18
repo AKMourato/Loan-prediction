@@ -22,7 +22,7 @@ To measure the accuracy of each classifier, the following metrics will be used:
 ### About the dataset
 
 
-This dataset is about past loans. The __Loan_train.csv__ data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:
+This dataset is about past loans. The data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:
 
 | Field          | Description                                                                           |
 |----------------|---------------------------------------------------------------------------------------|
@@ -34,3 +34,9 @@ This dataset is about past loans. The __Loan_train.csv__ data set includes detai
 | Age            | Age of applicant                                                                      |
 | Education      | Education of applicant                                                                |
 | Gender         | The gender of applicant                                                               |
+
+
+Training set: loan_train.csv
+Test set: loan_test.csv
+
+
