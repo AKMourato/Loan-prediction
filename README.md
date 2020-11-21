@@ -1,6 +1,6 @@
-# Loan-prediction
+# Loan Prediction
 
-<h1 align="center"><font size="1">Classification with Python and Scikit-Learn</font></h1>
+### Classification with Python and Scikit-Learn
 
 In this notebook are applied several Machine Learning algorithms in order to predict whether a loan case will be paid off or not.
 
